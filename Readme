@@ -1,0 +1,3 @@
+This repository is a basic implementation of a pytorch model for the image classification for a custom dataset 
+--> describable texture dataset
+-->train2.ipynb is the attempted new approach to train the model
